@@ -14,7 +14,7 @@ List
 
 This is a list of my recipes
 
-- $x + yS
+- $x + y$
 - $x \div y$
 - $\dfrac{x}{y}$
 - $\sqrt{x}$
